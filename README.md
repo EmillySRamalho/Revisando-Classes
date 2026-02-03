@@ -1,4 +1,4 @@
-# 📘 Estudos de JavaScript – Classes, Objetos e Herança
+# 📘 Estudos de JavaScript – Classes
 
 Este repositório contém exemplos práticos de **JavaScript moderno (ES6+)**, abordando conceitos fundamentais como **classes**, **constructor**, **propriedades**, **setters**, **subclasses** e **uso do `super`**.
 
